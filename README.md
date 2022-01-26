@@ -1,7 +1,8 @@
-# Morse Code Decoder
-This project will decode an entire word in Morse code, takes a string parameter, and return the string representation. It uses:
--  A method that decodes a Morse code character, takes a string parameter, and return the corresponding character in uppercase (e.g. decode_char(".-") returns "A").
-- A method that decodes an entire word in Morse code, takes a string parameter, and return the string representation. Every character in a word will be separated by a single space (e.g. decode_word("-- -.--") returns "MY").
+# School Library
+
+> Project for librarian of OOP University to record what books are in the library and who borrows them.
+
+
 
 ## Built With
 
@@ -10,6 +11,25 @@ This project will decode an entire word in Morse code, takes a string parameter,
 ## Additional Tools
 
 - rubocop
+
+## `Getting Started`
+
+To get a local copy of this project:
+
+Clone this repository or download the Zip folder:
+```
+git clone https://github.com/Wes-Isaac/School_Library.git
+```
+
+To get started, In the root directory run:
+```
+gem install bundler
+```
+Then run:
+```
+bundle install
+```
+
 
 ## `Tests`
 ### To track linter errors locally follow these steps:  
