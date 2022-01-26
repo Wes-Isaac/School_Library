@@ -19,13 +19,12 @@ Track linter errors run:
 rubocop
 ```
 
-## Authors
+## Author
 
-👤 **Simo Nkosi**
+👤 **Yishak**
 
-- GitHub: [@KDlamini](https://github.com/KDlamini)
-- Twitter: [@RealSimoNkosi](https://twitter.com/RealSimoNkosi)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/simo-nkosi-418523180/)
+- GitHub: [Yishak ,Wes-Isaac](https://github.com/Wes-Isaac)
+- LinkedIn: [@Yishak](https://www.linkedin.com/in/yishak-wesego-b404851a7/)
 
 ## 🤝 Contributing
 
