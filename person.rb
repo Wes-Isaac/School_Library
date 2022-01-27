@@ -29,7 +29,7 @@ class Person
   end
 end
 
-person = Person.new(100, 'somdottasarkar')
+person = Person.new(100, 'isaacnewton')
 person.validate_name
 
 puts person.name
