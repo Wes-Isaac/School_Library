@@ -166,4 +166,8 @@ def list_rentals_by_person_id
   sleep 0.75
 end
 
+def main
+  app = App.new
+  app.run
 end
+main
